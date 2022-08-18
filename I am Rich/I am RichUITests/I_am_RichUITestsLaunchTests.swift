@@ -1,13 +1,13 @@
 //
-//  I_am_RichUITestsLaunchTests.swift
-//  I am RichUITests
+//  I_Am_RichUITestsLaunchTests.swift
+//  I Am RichUITests
 //
-//  Created by Somi Kim on 2022/06/27.
+//  Created by Somi Kim on 2022/08/18.
 //
 
 import XCTest
 
-class I_am_RichUITestsLaunchTests: XCTestCase {
+class I_Am_RichUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

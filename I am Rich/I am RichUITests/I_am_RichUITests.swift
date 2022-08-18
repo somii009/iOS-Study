@@ -1,13 +1,13 @@
 //
-//  I_am_RichUITests.swift
-//  I am RichUITests
+//  I_Am_RichUITests.swift
+//  I Am RichUITests
 //
-//  Created by Somi Kim on 2022/06/27.
+//  Created by Somi Kim on 2022/08/18.
 //
 
 import XCTest
 
-class I_am_RichUITests: XCTestCase {
+class I_Am_RichUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

@@ -1,14 +1,14 @@
 //
-//  I_am_RichTests.swift
-//  I am RichTests
+//  I_Am_RichTests.swift
+//  I Am RichTests
 //
-//  Created by Somi Kim on 2022/06/27.
+//  Created by Somi Kim on 2022/08/18.
 //
 
 import XCTest
-@testable import I_am_Rich
+@testable import I_Am_Rich
 
-class I_am_RichTests: XCTestCase {
+class I_Am_RichTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
